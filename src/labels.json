@@ -1,0 +1,7 @@
+{
+    "Byte (B)": 1,
+    "Kilobyte (KB)": 1024,
+    "Megabyte (MB)": 1048576,
+    "Gigabyte (GB)": 1073741824,
+    "Terabyte (TB)": 1099511627776
+}
